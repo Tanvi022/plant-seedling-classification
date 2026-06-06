@@ -2,7 +2,7 @@
 This project demonstrates how to build a machine learning model to classify plant seedlings and deploy it using Streamlit. The model takes images of plant seedlings as input and predicts the class of the plant. It is a great way to learn how to integrate machine learning with a user-friendly web interface.
 
 Project Overview
-In this project, we useResNet-18, a deep Convolutional Neural Network (CNN) pre-trained on the ImageNet dataset to classify images of plant seedlings. The model is trained on a dataset of plant seedlings, and we use Streamlit  for users to upload images of seedlings and receive predictions.
+In this project, I useResNet-18, a deep Convolutional Neural Network (CNN) pre-trained on the ImageNet dataset to classify images of plant seedlings. The model is trained on a dataset of plant seedlings, and we use Streamlit  for users to upload images of seedlings and receive predictions.
 
 Features
 Image Classification: Users can upload images of seedlings, and predict's which plant species it is.
